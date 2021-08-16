@@ -1,0 +1,201 @@
+body
+{
+    background-color:rgb(255, 255, 255);
+    margin: 2%;
+    padding: 0%;
+}
+.test
+{
+    position: relative;
+    left: 270%;
+     padding-right: 10px;
+}
+fieldset
+{
+    box-shadow: 0px 3px 5px blue;
+    margin: 2%;
+    padding-top: 30px;
+     padding-bottom: 30px;
+}
+fieldset legend
+{
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    background: white;
+}
+.test1
+{
+    position: relative;
+    left: 25%;
+    top: -5px;
+    line-height: 30px;
+}
+.test2
+{
+    position: relative;
+    left: 25%;
+     top: -0px;
+
+    padding-bottom: 10px;
+}
+.test3
+{
+    position: relative;
+    left:  25%;
+    padding-right: 10px;
+}
+
+.sp1
+{
+    position: relative;
+    left: 5%;
+  
+    font-size: 25px;
+}
+.sp2
+{
+    position: relative;
+    left: 50%;
+   
+    font-size: 25px;
+}
+.sp3
+{
+    position: relative;
+    left: 5%;
+   
+    font-size: 25px;
+}
+.sp4
+{
+    position: relative;
+    left: 30%;
+   
+    font-size: 25px;
+}
+.sp
+{
+    position: relative;
+    left: 70%;
+   
+    font-size: 25px;
+}
+.sp5
+{
+    position: relative;
+    left: 47%;
+   
+    font-size: 25px;
+}
+.sp6
+{
+    position: relative;
+    left: 5%;
+   
+    font-size: 25px;
+}
+.sp7
+{
+    position: relative;
+    left: 32%;
+   
+    font-size: 25px;
+}
+textarea
+{
+    border: 2px groove black;
+}
+textarea:focus
+{
+    box-shadow: 0 0 10px black;
+    position: relative;
+    left: 15%;
+    transition: 1s;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+.btn
+{
+    position: relative;
+    left: 45%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: -50px;
+    background:rgb(23, 23, 216); 
+    color: white
+}
+.btn:hover
+{
+     background :white;
+    color:rgb(23, 23, 216);
+    border: none;
+       box-shadow: 0 0 10px rgb(23, 23, 216);
+}
+ul li
+{
+    display: inline;
+    list-style: none;
+    padding-right: 30px;
+    position: relative;
+    left: 5%;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+.quest
+{
+    letter-spacing: 0px;
+}
+.text
+{
+    font-size: 25px;
+    word-spacing: 3px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+h2
+{
+    text-align: center;
+}
+.res1
+{
+  font-size: 25px;
+   position: relative;
+  left: 3%;
+}
+.res2
+{
+  font-size: 25px;   
+  position: relative;
+  left: 33%;
+}
+.res3
+{
+     font-size: 25px;
+     position: relative;
+  left: 40%;
+}
+.format select
+{
+position: relative;
+left: 37%;
+padding: 10px;
+font-weight: bold;
+letter-spacing: 5px;
+}
+.format input
+{
+position: relative;
+left: 38%;
+padding: 10px;
+font-weight: bold;
+letter-spacing: 5px;
+}

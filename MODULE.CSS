@@ -1,0 +1,122 @@
+.dec
+{
+    position: relative;
+     top: 20%;
+}
+.module
+{
+    background:  rgb(0, 47, 255);
+    padding-top: 20px;
+     padding-bottom: 20px;
+      padding-left: 0px;
+       padding-right: 20px;
+    position: relative;
+    top: 26px;
+    margin-left:26.5%;
+}
+.module input
+{
+    position: relative;
+    left: 0.5%;
+    font-weight: bold;
+     padding-top: 5px;
+     padding-bottom: 5px;
+      padding-left: 0px;
+       padding-right: 0px;
+       margin-bottom: 10px;
+}
+.module select
+{
+    position: relative;
+    left:0.5%;
+    font-weight: bold;
+    padding-top: 6px;
+     padding-bottom: 6px;
+      padding-left: 5px;
+       padding-right: 5px;
+}
+.module h2
+{
+    color: wheat;
+    font-weight: bold;
+        letter-spacing: 5px;
+}
+.bouton
+{
+   
+     padding-top: 6px;
+     padding-bottom: 6px;
+      padding-left: 10px;
+       padding-right: 20px;
+       letter-spacing: 5px;
+       font-size: 20px;
+       position: relative;
+       top: 10px;
+}
+.a
+{
+    position: relative;
+    top: 50px;
+}
+.lmod
+{
+    position: absolute;
+    left: 27%;
+    top: 48%;
+  
+}
+.lmod table tr td
+{
+     
+    border-collapse: collapse;
+}
+.lmod table tr td
+{
+    background: white;
+    letter-spacing: 5px;
+ text-align: center;
+      padding-top: 20px;
+     padding-bottom: 20px;
+      padding-left: 10px;
+       padding-right: 20px;
+      font-weight: bold;
+      
+}
+.lmod table tr th
+{
+      background:  rgb(0, 47, 255);
+    letter-spacing: 5px;
+    text-align: center;
+      padding-top: 6px;
+     padding-bottom: 6px;
+      padding-left: 10px;
+       padding-right: 20px;
+       color: white;
+       font-weight: bold;
+}
+.mod
+{
+    position: relative;
+    top: -20px;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.lmod a
+{
+      text-decoration: none;
+    background: red;
+    color: white;
+     font-weight: bold;
+    padding: 5px;
+     letter-spacing: 3px;
+    box-shadow: 0 0 10px  red;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.lmod a:hover
+{
+      text-decoration: none;
+      color: red;
+        background: white;
+}

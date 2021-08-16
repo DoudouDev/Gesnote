@@ -1,0 +1,97 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+ .container
+{
+   
+  
+position: relative;
+      /* padding: 2%; */
+     padding-top: 2%;
+     padding-bottom:2%; 
+      top:50%;   
+}
+ .container  .boxer
+ {
+     background-color: rgb(255, 255, 255);
+      display: block;
+      margin-left: 32%;
+      margin-right: 32%;
+      position: relative;
+     
+      box-shadow: 0 0 10px rgb(0, 4, 15);
+     
+     padding-top: 1px;
+     padding-bottom:2%; 
+      /* top:20%;    */
+       /* transform: translate(-5px,-5px) rotate(8deg); */
+       transition: all;
+ }
+ .container  .boxer:hover
+ {
+     /* transform: translate(15px,15px) rotate(0deg) ; */
+     transition:.5s;
+     border-radius: 50px;
+     box-shadow: 0 0 20px rgb(1, 27, 110);
+ }
+  .container  .boxer h2
+  {
+      text-align: center;
+      letter-spacing: 5px;
+      font-size: 3em;
+      /* padding-bottom:10px;  */
+      margin-bottom:10px; 
+  }
+  .container  .boxer tr td
+  {
+     position: relative;
+     top: -20px;
+      padding-bottom: 15%;
+  }
+
+ .container  .boxer tr td input
+ {
+     padding-left: 20%;
+     padding-right: 20%;
+      padding-top: 2%;
+     padding-bottom: 2%;
+     position: relative;
+     left: 43%;
+     font-weight: bold;
+     border: none;
+      border-bottom:  4px solid rgb(0, 102, 255);
+     background: transparent
+ }
+ .container  .boxer tr td .btn
+ {
+     padding-left: 15%;
+     padding-right: 15%;
+      padding-top: 2%;
+     padding-bottom: 2%;
+     position: relative;
+     left: 65%;
+     font-weight: bold;
+ }
+  .container  .boxer tr td input:focus
+  {
+    
+      border: 1px solid transparent; 
+      box-shadow: 0 0 5px green;
+      
+  }
+  .test
+  {
+      color: black;
+      background-color: rgba(248, 0, 0, 0.678);
+      margin-left: 32%;
+      margin-right: 32%;
+      font-size: 2em;
+      font-weight: bold;
+  }
